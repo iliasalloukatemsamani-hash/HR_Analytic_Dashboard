@@ -1,0 +1,115 @@
+# 📊 HR Analytics Dashboard — Power BI
+
+## 📌 Project Overview
+
+This project presents an interactive **HR Analytics Dashboard** developed using **Microsoft Power BI**.
+
+The dashboard transforms HR data into meaningful insights by analyzing employee demographics, workforce distribution, attrition, departments, job roles, and key HR performance indicators.
+
+The project demonstrates practical skills in **data cleaning, data transformation, data modeling, DAX, KPI development, and data visualization**.
+
+---
+
+## 🎯 Project Objectives
+
+The main objectives of this project are to:
+
+- Analyze employee demographics and workforce composition
+- Monitor key HR performance indicators
+- Analyze employee attrition and identify trends
+- Compare departments and job roles
+- Build interactive and dynamic HR reports
+- Create meaningful KPIs using DAX
+- Support data-driven HR decision-making
+
+---
+
+## 🛠️ Tools & Technologies
+
+| Tool / Technology | Purpose |
+|---|---|
+| **Power BI** | Dashboard development and data visualization |
+| **DAX** | Measures, KPIs, and analytical calculations |
+| **Power Query** | Data cleaning and transformation |
+| **Data Modeling** | Building relationships between tables |
+| **Data Visualization** | Interactive charts, KPIs, and reports |
+
+---
+
+## 📊 Dashboard Preview
+
+### HR Analytics Dashboard
+
+![HR Analytics Dashboard](Screenshots/dashboard.png)
+
+The dashboard provides an interactive overview of the organization's workforce and HR-related KPIs.
+
+Users can interact with the report using filters and slicers to explore different employee segments, departments, roles, and other dimensions.
+
+---
+
+## 🔎 Key Areas of Analysis
+
+The dashboard focuses on several important HR metrics and business questions:
+
+### 👥 Employee Analysis
+
+- Total number of employees
+- Employee demographics
+- Workforce distribution
+- Department distribution
+- Job-role analysis
+
+### 📉 Attrition Analysis
+
+- Employee attrition
+- Attrition rate
+- Attrition by department
+- Attrition by job role
+- Identification of workforce trends
+
+### 📈 KPI Analysis
+
+The dashboard includes dynamic KPIs designed to provide a quick overview of workforce performance and HR metrics.
+
+---
+
+## 🧹 Data Cleaning & Transformation
+
+**Power Query** was used to prepare the dataset before analysis.
+
+The data preparation process included:
+
+- Handling missing values
+- Removing duplicate records
+- Correcting data types
+- Cleaning and standardizing data
+- Transforming columns
+- Creating fields required for analysis
+- Preparing the dataset for the Power BI data model
+
+---
+
+## 🧩 Data Modeling
+
+A structured data model was created in Power BI to support interactive analysis and ensure that the dashboard calculations work correctly.
+
+![Data Model](Documentation/data_model.png)
+
+The model includes relationships between the relevant data tables and was designed to support efficient filtering, aggregation, and analysis.
+
+---
+
+## 🧮 DAX & KPI Development
+
+**DAX (Data Analysis Expressions)** was used to create calculated measures and dynamic KPIs throughout the dashboard.
+
+Examples of the types of calculations used include:
+
+- Total Employees
+- Employees Who Left
+- Attrition Rate
+- Employee Distribution
+- Department-level metrics
+- Percentage calculations
+- Other HR analytical measures
